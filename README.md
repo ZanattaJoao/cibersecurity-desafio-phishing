@@ -20,7 +20,7 @@
 
 ![Alt text](./passwd.png "Optional title")
 
-# Phishing para captura de senhas do Facebook
+#  Alteração no desafio devido erro de Browser
 - Devido as configurações de Browser, não foi possível utilizar o método de 'Site Cloner'.
 - Com isso, foi feito o desafio com a opção de 'Web Templates', utilizando a opção de Twitter, onde foi possível obter os dados de login do usuário.
 
